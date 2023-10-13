@@ -1,0 +1,37 @@
+div.col a {
+  background-color: saddlebrown;
+  color: #ffffff;
+}
+
+div.col a:hover {
+  background-color: lightsalmon;
+  transition: all 0.2s ease;
+}
+
+div a.btn {
+  background-color: saddlebrown;
+  color: #ffffff;
+}
+
+div a.btn:hover {
+  background-color: lightsalmon;
+  transition: all 0.2s ease;
+}
+
+.custom-badge {
+  font-size: 1em;
+  background-color: saddlebrown;
+  padding: 5px 30px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+}
+
+.custom-badge:hover {
+  background-color: lightsalmon;
+  transition: all 0.2s ease;
+}
+
+p.card-text {
+  font-size: 1em;
+}
